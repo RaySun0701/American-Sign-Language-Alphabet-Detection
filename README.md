@@ -1,5 +1,5 @@
 # American Sign Language Alphabet Detection
-
+![Sample Input](demo.png)
 **Dataset Source:**
  The dataset used in this project can be downloaded from Kaggle:
 [Lexset Synthetic ASL Alphabet Dataset](https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet/data)
