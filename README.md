@@ -152,31 +152,6 @@ To understand how the CNN model was trained:
    - Model training and evaluation
    - Saving the trained model (`ASL.h5`)
 
-------
-
-## Tech Stack
-
-- **Python 3.11**
-- **TensorFlow / Keras** — Model training and inference
-- **Flask** — Web application framework
-- **OpenCV (cv2)** — Image preprocessing
-- **NumPy** — Array manipulation and numerical computation
-
-------
-
-## Example Usage
-
-Upload a test image such as:
-
-```
-images_from_test_set/A/A_1.png
-```
-
-Output in the web interface:
-
-```
-Predicted Letter: A
-```
 
 ------
 
