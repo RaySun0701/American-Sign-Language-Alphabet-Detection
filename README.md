@@ -1,7 +1,8 @@
 # American Sign Language Alphabet Detection
-![Sample Input](demo.png)
+
 **Dataset Source:**
- The dataset used in this project can be downloaded from Kaggle:
+ 
+The dataset used in this project can be downloaded from Kaggle:
 [Lexset Synthetic ASL Alphabet Dataset](https://www.kaggle.com/datasets/lexset/synthetic-asl-alphabet/data)
 
 > This dataset created by **Lexset** contains **27,000 images** of the alphabet signed in **American Sign Language (ASL)**.
@@ -131,6 +132,12 @@ Upload an image (for example, from the `images_from_test_set` folder) and the ap
   ```
 
   > ⚠️ Note: Make sure your firewall allows inbound connections on the selected port.
+
+------
+
+## Demo
+
+![Sample Input](demo.png)
 
 ------
 
